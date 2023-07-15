@@ -37,7 +37,7 @@ The Tech Returners Surgery webpage is structured using HTML5 and includes the fo
 
 
 ## Styling
-The webpage is styled using the `csstyle.css` file. Some of the key styling features include:
+The webpage is styled using the `styles.css` file. Some of the key styling features include:
 - Background color for the body: `hsl(193, 62%, 82%)`
 - Colors, alignments, and font sizes for various headings (`h1`, `h2`, `h3`)
 - Custom font family for `h3` using 'Times New Roman', Times, serif
