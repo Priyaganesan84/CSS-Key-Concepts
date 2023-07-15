@@ -3,10 +3,22 @@
 
 Welcome to the Tech Returners Surgery! This is a webpage that provides information about the surgery, its services, and how to contact them.
 
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 
+## Creating a New Repository
+If you want to create a new repository using the command line, you can follow these steps:
+
+1. echo "# CSS-Key-Concepts" >> README.md  // create a new Readme file
+2. git init  //Initalise a new GIT repository
+3. git add README.md //add the Readme file
+4. git commit -m "first commit" //commit the inital changes
+5. git branch -M main // rename the default branch of a Git repository to main
+6. git remote add origin https://github.com/your-user-name/CSS-Key-Concepts.git for eg https://github.com/Priyaganesan84/CSS-Key-Concepts.git
+7. git push -u origin main // push the local repository to github.
+8. Add index.html,style.css,surgery.png files and git commit and push to github.
 
 ## Description
 The Tech Returners Surgery webpage is designed to provide information about the surgery, including details about their services, team, patient information, and a well-being center. It also includes a search feature, COVID restriction updates, and a form for users to send messages or provide feedback.
